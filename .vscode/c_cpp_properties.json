@@ -45,7 +45,8 @@
                 "${workspaceFolder}/arduino-stub/**",
                 "${workspaceFolder}/arduino-code/arduino-helpers/src/**",
                 "${workspaceFolder}/arduino-code/arduino-helpers/gtest/**",
-                "${workspaceFolder}/arduino-code/async-GSM/src/**"
+                "${workspaceFolder}/arduino-code/async-GSM/src/**",
+                "${workspaceFolder}/arduino-code/async-GSM/gtest/**"
             ],
             "defines": [
                 "_MAC_",

@@ -4,13 +4,8 @@
 #include <string.h>
 #include "Print.h"
 
-#define SERIAL_RX_BUFFER_SIZE 128
+#define SERIAL_RX_BUFFER_SIZE 2048
 
-#if (SERIAL_TX_BUFFER_SIZE>256)
-typedef uint16_t tx_buffer_index_t;
-#else
-typedef uint8_t tx_buffer_index_t;
-#endif
 #if  (SERIAL_RX_BUFFER_SIZE>256)
 typedef uint16_t rx_buffer_index_t;
 #else
@@ -36,4 +31,15 @@ public:
 	rx_buffer_index_t readBytes(char *buffer, rx_buffer_index_t length); // read chars from stream into buffer
 	rx_buffer_index_t readBytes(const char *buffer, rx_buffer_index_t length) { return readBytes((char *)buffer, length); }
 	rx_buffer_index_t readBytes(uint8_t *buffer, rx_buffer_index_t length) { return readBytes((char *)buffer, length); }
+
+    void SetRXBuffer(uint8_t *byteArray, rx_buffer_index_t length);
+	void AddRXBuffer(uint8_t *byteArray, rx_buffer_index_t length);
+
+	void SetRXBuffer(char *byteArray, rx_buffer_index_t length);
+	void SetRXBuffer(char *byteArray);
+
+	void AddRXBuffer(char *byteArray, rx_buffer_index_t length);
+	void AddRXBuffer(char *byteArray);
+
+    rx_buffer_index_t GetTXLength();
 };
