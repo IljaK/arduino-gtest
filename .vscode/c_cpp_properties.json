@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/build/googletest-prefix/src/googletest/googletest/include/**",
+                "${workspaceFolder}/arduino-stub/**",
+                "${workspaceFolder}/arduino-code/arduino-helpers/src/**",
+                "${workspaceFolder}/arduino-code/arduino-helpers/gtest/**",
+                "${workspaceFolder}/arduino-code/async-GSM/src/**"
+            ],
+            "defines": [
+                "ARDUINO_TEST"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x86",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/build/googletest-prefix/src/googletest/googletest/include/**",
+                "${workspaceFolder}/arduino-stub/**",
+                "${workspaceFolder}/arduino-code/arduino-helpers/src/**",
+                "${workspaceFolder}/arduino-code/arduino-helpers/gtest/**",
+                "${workspaceFolder}/arduino-code/async-GSM/src/**"
+            ],
+            "defines": [
+                "_LINUX_",
+                "ARDUINO_TEST"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64",
+            "forcedInclude": [],
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        },
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/build/googletest-prefix/src/googletest/googletest/include/**",
+                "${workspaceFolder}/arduino-stub/**",
+                "${workspaceFolder}/arduino-code/arduino-helpers/src/**",
+                "${workspaceFolder}/arduino-code/arduino-helpers/gtest/**",
+                "${workspaceFolder}/arduino-code/async-GSM/src/**"
+            ],
+            "defines": [
+                "_MAC_",
+                "ARDUINO_TEST"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [],
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

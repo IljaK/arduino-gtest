@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-stub/Arduino.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-stub/Arduino.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-stub/Arduino.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-stub/Stream.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-stub/Stream.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-stub/Stream.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/common/Button.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/Button.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/Button.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/common/TimeManager.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/TimeManager.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/TimeManager.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/common/Timer.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/Timer.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/Timer.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/common/Util.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/Util.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/common/Util.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/measurements/AmperMeter.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/measurements/AmperMeter.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/measurements/AmperMeter.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/measurements/PinValueMeter.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/measurements/PinValueMeter.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/measurements/PinValueMeter.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/measurements/VoltMeter.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/measurements/VoltMeter.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/measurements/VoltMeter.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/serial/BaseSerialHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/serial/BaseSerialHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/serial/BaseSerialHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/serial/SerialCharResponseHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/serial/SerialCharResponseHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/serial/SerialCharResponseHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/src/serial/SerialTimerResponseHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/serial/SerialTimerResponseHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src/serial/SerialTimerResponseHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/TimerTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/TimerTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/TimerTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/UtilTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/UtilTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/UtilTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/VoltMeterTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/VoltMeterTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/VoltMeterTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/array-test/BinaryMessageArrayTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/BinaryMessageArrayTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/BinaryMessageArrayTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/array-test/ByteArrayStreamTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/ByteArrayStreamTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/ByteArrayStreamTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/array-test/ByteStackArrayTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/ByteStackArrayTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/ByteStackArrayTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/array-test/StackArrayTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/StackArrayTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/array-test/StackArrayTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/mock/BaseSerialHandlerMock.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/BaseSerialHandlerMock.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/BaseSerialHandlerMock.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/mock/BaseSerialMock.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/BaseSerialMock.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/BaseSerialMock.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/mock/SerialCharResponseHandlerMock.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/SerialCharResponseHandlerMock.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/SerialCharResponseHandlerMock.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/mock/SerialStream.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/SerialStream.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/SerialStream.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/mock/SerialTimerResponseHandlerMock.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/SerialTimerResponseHandlerMock.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/SerialTimerResponseHandlerMock.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/mock/TimerMock.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/TimerMock.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/mock/TimerMock.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/serial-test/BaseSerialHandlerTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/serial-test/BaseSerialHandlerTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/serial-test/BaseSerialHandlerTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/serial-test/SerialCharResponseHandlerTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/serial-test/SerialCharResponseHandlerTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/serial-test/SerialCharResponseHandlerTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/arduino-helpers/gtest/serial-test/SerialTimeResponseHandlerTest.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/serial-test/SerialTimeResponseHandlerTest.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest/serial-test/SerialTimeResponseHandlerTest.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/BaseGSMHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/BaseGSMHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/BaseGSMHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/GPRSHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GPRSHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GPRSHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/GSMCallHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMCallHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMCallHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/GSMHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/GSMNetworkHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMNetworkHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMNetworkHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/GSMSerialModem.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMSerialModem.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/GSMSerialModem.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/common/GSMUtils.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/common/GSMUtils.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/common/GSMUtils.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/socket/GSMSocket.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/socket/GSMSocket.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/socket/GSMSocket.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/socket/GSMSocketHandler.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/socket/GSMSocketHandler.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/socket/GSMSocketHandler.cpp"
+},
+{
+  "directory": "/Users/iljakrusman/Git/arduino-gtest/build",
+  "command": "/usr/bin/clang++ -DARDUINO_TEST -D_LINUX_ -I/Users/iljakrusman/Git/arduino-gtest/build/googletest-prefix/src/googletest/googletest/include -I/Users/iljakrusman/Git/arduino-gtest/arduino-stub -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/arduino-helpers/gtest -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src -I/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/gtest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11 -o CMakeFiles/arduino-test-project.dir/arduino-code/async-GSM/src/socket/SocketArray.cpp.o -c /Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/socket/SocketArray.cpp",
+  "file": "/Users/iljakrusman/Git/arduino-gtest/arduino-code/async-GSM/src/socket/SocketArray.cpp"
+}
+]
