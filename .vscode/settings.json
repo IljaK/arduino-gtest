@@ -94,7 +94,12 @@
         "__tree": "cpp",
         "__locale": "cpp",
         "__string": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "__functional_base": "cpp",
+        "__functional_base_03": "cpp",
+        "__tuple": "cpp",
+        "compare": "cpp",
+        "filesystem": "cpp"
     },
     "gtest-adapter.debugConfig": "GTest",
     "gtest-adapter.supportLocation": true,
