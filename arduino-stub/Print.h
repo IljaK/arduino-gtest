@@ -1,7 +1,7 @@
 #pragma once
 #include <stdint.h>
 #include <stdio.h>
-#include <string.h>
+#include <cstring>
 #include "EEprom.h"
 
 
@@ -47,6 +47,8 @@ public:
 	size_t println(char *str, size_t length) { return write((uint8_t *)str, length); };
 	size_t println(const char *str, size_t length) { return write((uint8_t *)str, length); };
 	size_t println(const char *str) { return write((uint8_t *)str, strlen(str)); };
+
+	inline size_t println() { return write("\r\n"); }
 
 	virtual int read() = 0;
 	virtual int available() = 0;

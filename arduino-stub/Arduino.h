@@ -10,7 +10,7 @@
 #include <time.h>
 
 #include <cstdio>
-#include <string>
+#include <cstring>
 #include <ctime>
 #include "Interrupt.h"
 #include "EEprom.h"

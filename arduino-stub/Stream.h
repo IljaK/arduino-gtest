@@ -1,7 +1,7 @@
 #pragma once
 #include <stdint.h>
 #include <stdio.h>
-#include <string.h>
+#include <cstring>
 #include "Print.h"
 
 #define SERIAL_RX_BUFFER_SIZE 2048
