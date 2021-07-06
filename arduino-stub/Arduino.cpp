@@ -161,3 +161,13 @@ int pinPeripheral( uint32_t ulPin, EPioType ulPeripheral )
 void analogReadResolution(int res)
 {
 }
+
+int isDigit(int c)
+{
+    return isdigit(c);
+}
+
+int strcmp_P(const char *__s1, const char *__s2)
+{
+    return strcmp(__s1, __s2);
+}

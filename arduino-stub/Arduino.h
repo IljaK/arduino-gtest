@@ -142,6 +142,8 @@ extern char *itoa (int val, char *s, int radix);
 extern char *utoa (long val, char *s, int radix);
 extern char *ltoa (unsigned int val, char *s, int radix);
 extern char *ultoa (unsigned long val, char *s, int radix);
+extern int isDigit(int c);
+extern int strcmp_P(const char *__s1, const char *__s2);
 
 extern void attachInterrupt(pin_size_t pin, voidFuncPtr callback, PinStatus mode);
 extern int pinPeripheral( uint32_t ulPin, EPioType ulPeripheral );
