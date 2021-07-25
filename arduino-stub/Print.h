@@ -21,6 +21,7 @@ public:
 	// From Aduino HardwareSerial.h
 	size_t write(uint8_t byte) { return sizeof(byte); }
 	size_t write(const uint8_t *buffer, size_t length) { return length; };
+	size_t write(const char *buffer, size_t length) { return length; };
     size_t write(const char *str) {
       if (str == NULL) return 0;
       return write((const uint8_t *)str, strlen(str));
