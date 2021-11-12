@@ -21,3 +21,4 @@ public:
 };
 
 #define F(string_literal) (string_literal)
+#define PSTR(string_literal) (string_literal)
