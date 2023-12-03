@@ -51,6 +51,6 @@ public:
 
 	inline size_t println() { return write("\r\n"); }
 
-	virtual int read() = 0;
-	virtual int available() = 0;
+	virtual int read() { return 0; };
+	virtual int available() { return 0;};
 };
